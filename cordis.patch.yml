@@ -1,0 +1,5 @@
+# dsh-qixi：DeepSeek Harness Web UI 七夕情人节彩蛋插件。
+# 自带 patch，`dsh plugin add` 时由 dsh.bundle 自动应用（无需手动改 profile 的 cordis.patch.yml）。
+- insert:
+    - id: qixi
+      name: 'dsh-qixi'
